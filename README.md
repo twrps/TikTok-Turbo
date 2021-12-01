@@ -8,3 +8,5 @@ I wanted to create it as fast as possible but i eventually gave up and recoded i
 4. get a good rotating proxy(for rate limit bypass)
 ## Info
 Feel free to change the source your own way maybe make it faster maybe bypass rate limit. It is already changing username and not checking if username if available also i am so done with this shit i can't anymore. Basically the source itself is useless unless you have a good rotating proxy with unlimited bandwith.
+## Patch
+TikTok started banning usernames with many requests also the endpoint doesnt work currently
